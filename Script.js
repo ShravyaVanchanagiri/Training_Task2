@@ -118,6 +118,7 @@ function drawTable(empList) {
     $('#empDetails').find('tr').click(function() {
         updateEmployees(empList[($(this).index())])
     });
+    //change in feature test feature
 }
 
 function updateEmployees(obj) {
