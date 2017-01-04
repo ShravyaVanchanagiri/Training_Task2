@@ -1,0 +1,42 @@
+[
+  {
+    "eid": 1,
+    "name": "shravya",
+    "type": "Full time",
+    "dob": "1994-04-23T18:25:43.511Z",
+    "experience": 3,
+    "doj": "2014-04-23T18:25:43.511Z"
+  },
+  {
+    "eid": 2,
+    "name": "Divya",
+    "type": "Part time",
+    "dob": "1994-04-23T18:25:43.511Z",
+    "experience": 1,
+    "doj": "2015-04-23T18:25:43.511Z"
+  },
+  {
+    "eid": 3,
+    "name": "Ram",
+    "type": "Full time",
+    "dob": "1994-04-23T18:25:43.511Z",
+    "experience": 5,
+    "doj": "2012-04-23T18:25:43.511Z"
+  },
+  {
+    "eid": 4,
+    "name": "Mounika",
+    "type": "Part time",
+    "dob": "1994-04-23T18:25:43.511Z",
+    "experience": 3,
+    "doj": "2014-04-23T18:25:43.511Z"
+  },
+  {
+    "eid": 5,
+    "name": "Abdul",
+    "type": "Full time",
+    "dob": "1994-04-23T18:25:43.511Z",
+    "experience": 3,
+    "doj": "2014-04-23T18:25:43.511Z"
+  }
+]
