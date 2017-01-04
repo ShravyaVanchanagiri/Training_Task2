@@ -113,12 +113,11 @@ function drawTable(empList) {
         tr.append("<td>" + empList[i].getDoj() + "</td>");
         $('#empDetails').append(tr);
 
-        tr.on('click', function() {
-            $('#empDetails').find('tr').click(function() {
-                updateEmployees(empList[($(this).index())])
-            });
-        });
     }
+    //add row click function
+    $('#empDetails').find('tr').click(function() {
+        updateEmployees(empList[($(this).index())])
+    });
 }
 
 function updateEmployees(obj) {
